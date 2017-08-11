@@ -1,0 +1,6 @@
+[package]
+name = "rust-bcast"
+version = "0.1.0"
+authors = ["Michael Lazear <lazear@scripps.edu>"]
+
+[dependencies]
