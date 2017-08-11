@@ -1,4 +1,4 @@
 [root]
-name = "rust-bcast"
+name = "peer-discovery"
 version = "0.1.0"
 
